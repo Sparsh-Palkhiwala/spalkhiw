@@ -1,0 +1,14 @@
+{
+    "list": [
+       {
+          "name": "NavAssit",
+          "url": "https://github.com/Sparsh-Palkhiwala/Real-Time-Traffic-Detection-for-Visually-Impaired-People",
+          "desc": "Real Time Traffic Detection for Visually Impaired People"
+       },
+       {
+          "name": "GradeWise",
+          "url": "https://link.springer.com/article/10.1007/s42488-022-00078-2",
+          "desc": "Research Paper on Comparing Various Machine Learning Algorithms for Student Grade Prediction" 
+       }
+    ]
+ }
