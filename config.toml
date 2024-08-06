@@ -1,0 +1,63 @@
+baseURL = "http://spalkhiw.co"
+languageCode = "en-us"
+title = "Sparsh Palkhiwala"
+theme = 'cactus'
+googleAnalyticsAsync = 'G-VXKWNN39YJ'
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Writings"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 3
+
+[params]
+  colortheme = "white"
+  description = "Hi there! I'm Sparsh, A passionate software developer and Machine Learning Enthusiast from India, a Graduate Student at ASU, pursuing a Masters in Computer Science, who is interested in  Machine Learning and Data, and I'm an melomane who's driven by a curiosity to understand and build the world around me.\n \nI am interested in meeting new people and discussing new ideas. Feel free a time with me on my calendly: https://calendly.com/spalkhiw."
+  mainSection = "All Posts"
+  mainSectionTitle = "Writings"
+  showAllPostsOnHomePage = true
+  googleAnalyticsAsync = 'G-VXKWNN39YJ'
+  # postsOnHomePage = 5
+  # mathjax = true
+
+[[params.social]]
+  name = "email"
+  link = "spalkhiw@asu.edu" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/sparsh-palkhiwala/"
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/Sparsh-Palkhiwala"
+
+[[params.social]]
+  name = "instagram"
+  link = "https://www.instagram.com/benfeifke/"
+
+[[params.social]]
+  name = "spotify"
+  link = "https://open.spotify.com/user/uslu7x6q7isih2apjy9c6kj1y?si=ECYcNy7CTKSmGOcuPL9aeg&nd=1&dlsi=0a3315a47cbe4d73"
+
+[[params.social]]
+  name = "pinterest"
+  link = "https://pin.it/3kL8j1u5O"
+
+[markup.goldmark.renderer]
+unsafe= true
