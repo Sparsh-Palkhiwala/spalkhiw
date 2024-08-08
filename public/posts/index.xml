@@ -6,7 +6,13 @@
     <description>Recent content in Posts on Sparsh Palkhiwala</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>Sample Markdown File Introduction This is a test markdown file created to demonstrate various markdown elements.&#xA;Table of Contents Introduction Basic Syntax Lists Links and Images Code Tables Basic Syntax Headings Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Italic&#xA;Bold&#xA;Bold and Italic&#xA;Blockquotes This is a blockquote.&#xA;Lists Ordered List First item Second item Third item Unordered List </description>
+    </item>
   </channel>
 </rss>
