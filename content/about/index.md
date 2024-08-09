@@ -12,3 +12,9 @@ Whether it's optimizing data pipelines with MongoDB, fine-tuning language models
 You can learn more about my work --> [Resume](https://drive.google.com/file/d/1tTGZV3KG9Jamf38UayzTp3auQRylt1e3/view?usp=sharing).
 
 Let's connect and explore the limitless possibilities of technology together!
+
+# Some thoughts that stuck by : 
+
+- Yet still I dare to hope.
+- Everthing in time.
+- The biggest lie - "It's not that simple"

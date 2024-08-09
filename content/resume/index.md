@@ -101,4 +101,3 @@
 - [AWS Cloud Foundations](https://www.credly.com/badges/922e29a0-c732-419f-a76c-9e4b781ef3b2/print)
 - [Cybersecurity Basics, IBM](https://courses.edx.org/certificates/f5c4a1a6ada240949fd4de113998451e)
 - [Applied Scrum for Agile Project Management](https://courses.edx.org/certificates/b3c8482740344e4e9dd6c758171f6f08)
-

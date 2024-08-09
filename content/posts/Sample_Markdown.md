@@ -1,3 +1,8 @@
+---
+title: "Sample Markdown"
+date: 2024-05-17T09:47:45+02:00
+---
+
 # Sample Markdown File
 
 ## Introduction
