@@ -21,7 +21,7 @@ url = "/resume"
 weight = 3
 
 [[menu.main]]
-name = "About"
+name = "Beyond the Resume"
 url = "/about"
 weight = 4
 

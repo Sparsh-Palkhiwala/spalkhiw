@@ -6,14 +6,14 @@
     <description>Recent content on Sparsh Palkhiwala</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2024 09:47:45 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 09:47:45 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sample Markdown</title>
-      <link>http://localhost:1313/posts/sample_markdown/</link>
-      <pubDate>Fri, 17 May 2024 09:47:45 +0200</pubDate>
-      <guid>http://localhost:1313/posts/sample_markdown/</guid>
-      <description>Sample Markdown File Introduction This is a test markdown file created to demonstrate various markdown elements.&#xA;Table of Contents Introduction Basic Syntax Lists Links and Images Code Tables Basic Syntax Headings Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Italic&#xA;Bold&#xA;Bold and Italic&#xA;Blockquotes This is a blockquote.&#xA;Lists Ordered List First item Second item Third item Unordered List </description>
+      <title>NavAssist : The project that got me into Deep Learning</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Sat, 17 Aug 2024 09:47:45 +0200</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>Little Bit about NavAssist The YOLOv5 model has been meticulously fine-tuned and trained on a custom dataset comprising over 16,000 images, designed to capture Indian surroundings. This finetuned model achieves up to 70% precision in car detection and an overall precision of 65.4% for detecting all vehicles, all while maintaining real-time processing capabilities at 25 frames per second.&#xA;In addition, the model has undergone pruning to enhance resource efficiency, allowing it to run on lightweight devices such as the Jetson Nano.</description>
     </item>
     <item>
       <title></title>
