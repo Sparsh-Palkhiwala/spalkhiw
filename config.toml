@@ -1,8 +1,7 @@
 baseURL = "https://spalkhiw.netlify.app/"
 languageCode = "en-us"
 title = "Sparsh Palkhiwala"
-theme = 'cactus'
-googleAnalyticsAsync = 'G-VXKWNN39YJ'
+theme = "cactus"
 
 # Main menu which appears below site header.
 [[menu.main]]
@@ -31,7 +30,6 @@ weight = 4
   mainSection = "All Posts"
   mainSectionTitle = "Posts"
   showAllPostsOnHomePage = true
-  googleAnalyticsAsync = 'G-VXKWNN39YJ'
   # postsOnHomePage = 5
   # mathjax = true
 

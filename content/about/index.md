@@ -1,8 +1,3 @@
----
-title: About me
-date: "`date +%Y-%m-%d\ %H:%M:%S`"
----
-
 Hello! I'm Sparsh Palkhiwala, a nerd running on coffee currently diving deep into the fascinating world of Speaker Diarization. My journey has taken me through bits of technology, from developing real-time vehicle detection systems to integrating AI for enhanced efficiency in research and writing processes.
 
 Beyond the technical sphere, I am an melomane, a chess aficionado, and a dedicated gym-rat. These interests help me extreme some balance in the extremes of my life.
